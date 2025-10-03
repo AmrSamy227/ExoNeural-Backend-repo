@@ -12,9 +12,9 @@ WTForms==3.2.1
 lightgbm==4.6.0
 scikit-learn==1.7.2
 joblib==1.5.2
-numpy==1.26.0
-pandas==2.3.3
-python-dateutil==2.9.0.post0
+numpy==1.26.2        # compatible with Python 3.13
+pandas==2.3.4        # compatible with numpy 1.26+
+python-dateutil==2.9.2
 pytz==2025.2
 
 # Utilities
